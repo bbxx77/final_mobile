@@ -1,4 +1,4 @@
-## instruction
+## Instruction
 - When you run the app for the first time, the search screen appears after the splash screen.
 - Then you have to add a location name.
 - Then you will be redirected to the home screen.
